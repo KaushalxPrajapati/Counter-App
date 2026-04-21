@@ -39,7 +39,7 @@ function loadFunc() {
 }
 
 // --------------------------------------------------------
-// Event listener for each button
+// Event listener for each buttons
 // --------------------------------------------------------
 
 incrementBtn.addEventListener('click', () => {
